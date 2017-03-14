@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="792673d9-bc96-4c87-b661-991c4e430b67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lexer/lexer.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lexer/lexer_test.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/token/token.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/.idea/libraries/GOPATH__monkey_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/.idea/libraries/Go_SDK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/.idea/monkey.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/lexer/lexer_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/src/lexer/lexer.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../monkey/src/token/token.go" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,27 +28,23 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="lexer_test.go" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lexer_test.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lexer/lexer_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="e#15#52#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lexer.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lexer.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lexer/lexer.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
-              <folding>
-                <element signature="e#15#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-686">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,8 +52,8 @@
       <file leaf-file-name="token.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/token/token.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,7 +69,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -140,29 +144,59 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\Github\Monkey\monkey\src" />
+    </key>
   </component>
   <component name="RunManager" selected="Go Test.All in 'lexer'">
-    <configuration default="false" name="lexer_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
-      <module name="monkey" />
-      <working_directory value="$PROJECT_DIR$/lexer" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/lexer/lexer_test.go" />
-      <method />
-    </configuration>
     <configuration default="false" name="All in 'lexer'" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
       <module name="monkey" />
       <working_directory value="$PROJECT_DIR$/lexer" />
       <framework value="gotest" />
       <kind value="DIRECTORY" />
       <directory value="$PROJECT_DIR$/lexer" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in 'token'" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="monkey" />
+      <working_directory value="$PROJECT_DIR$/token" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/token" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestNextToken02 in lexer_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="monkey" />
+      <working_directory value="$PROJECT_DIR$/lexer" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <pattern value="^TestNextToken02$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build lexer and run" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="monkey" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <package value="lexer" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestNextToken02 in lexer_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="monkey" />
+      <working_directory value="$PROJECT_DIR$/lexer" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="monkey/lexer" />
+      <pattern value="^TestNextToken02$" />
       <method />
     </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
@@ -195,6 +229,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -204,14 +244,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Go Test.lexer_test.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Test.All in 'lexer'" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Go Test.All in 'lexer'" />
+      <item index="1" class="java.lang.String" itemvalue="Go Test.All in 'token'" />
+      <item index="2" class="java.lang.String" itemvalue="Go Test.TestNextToken02 in lexer_test.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Application.Build lexer and run" />
+      <item index="4" class="java.lang.String" itemvalue="Go Test.TestNextToken02 in lexer_test.go (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Go Test.All in 'lexer'" />
-        <item index="1" class="java.lang.String" itemvalue="Go Test.lexer_test.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Test.TestNextToken02 in lexer_test.go (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Go Application.Build lexer and run" />
+        <item index="3" class="java.lang.String" itemvalue="Go Test.TestNextToken02 in lexer_test.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Test.All in 'token'" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +265,34 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_'lexer' - 2017.03.13 at 18h 55m 16s.xml">
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 38m 40s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 39m 39s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 39m 48s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 40m 19s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 45m 08s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 45m 28s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 45m 53s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 51m 24s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 51m 33s.xml">
+      <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_in_'lexer' - 2017.03.13 at 20h 52m 18s.xml">
       <configuration name="All in 'lexer'" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
@@ -229,21 +302,21 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -258,31 +331,33 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lexer/lexer_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/lexer/lexer.go" />
+    <entry file="file://$PROJECT_DIR$/src/token/token.go" />
+    <entry file="file://$PROJECT_DIR$/src/lexer/lexer_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/token/token.go" />
+    <entry file="file://$PROJECT_DIR$/src/lexer/lexer.go" />
+    <entry file="file://$PROJECT_DIR$/lexer/lexer_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/token/token.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lexer/lexer.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
-          <folding>
-            <element signature="e#15#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lexer/lexer_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#15#52#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-686">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
